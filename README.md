@@ -6,7 +6,7 @@
 
 ---
 
-## ![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQFchxCh4qztaQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1729637682216?e=1732752000&v=beta&t=xoxrKpHbCF8qxP4muQsqjXmXTAYzISlpgUtUWvMet74 "LinkedIn Learning Certificate of Completion")
+![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQFchxCh4qztaQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1729637682216?e=1737590400&v=beta&t=hoyqmidbYbhcHXLVdmseKuYIU2iwWOt-TIwHOSv1nHQ "LinkedIn Learning Certificate of Completion")
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-data-structures-22859292/working-with-data-structures)
 
